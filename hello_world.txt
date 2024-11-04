@@ -1,1 +1,3 @@
 Some text change to commit.
+
+A second change to test the commit message in vsc.
